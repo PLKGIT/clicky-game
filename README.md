@@ -5,6 +5,8 @@ In the 1970's detective show-themed app, players gain a point each time they cli
 
 ![https://res.cloudinary.com/damplk/image/upload/v1587624373/portal/hw_clicky_react_ighk53.png](https://res.cloudinary.com/damplk/image/upload/v1587624373/portal/hw_clicky_react_ighk53.png)
 
+![https://res.cloudinary.com/damplk/image/upload/v1587624758/portal/hw_clicky_react_02_jv9hvt.png](https://res.cloudinary.com/damplk/image/upload/v1587624758/portal/hw_clicky_react_02_jv9hvt.png)
+
 ## Using the Clicky Game
 * Try to click on each of the 16 available cards without repeating
 * The card deck will shuffle each time a card is clicked
