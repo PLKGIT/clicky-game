@@ -10,7 +10,7 @@ import images from "./images.json";
 class App extends Component {
 
   state = {
-    message: "Welcome the 70s TV!",
+    message: "Welcome to 70s TV!",
     score: 0,
     topScore: 0,
     images
