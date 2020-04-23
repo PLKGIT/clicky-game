@@ -26,7 +26,9 @@ In the 1970's detective show-themed app, players gain a point each time they cli
 Pam Kelly at [esq.kelly@gmail.com](mailto:esq.kelly@gmail.com)
 
 ### GitHub Repository
-[GitHub](https://github.com/PLKGIT/clicky-gamee) at https://github.com/PLKGIT/deployed-clicky-game
+*Note*: The original repository for the app is at https://plkgit.github.io/react-clicky-game/.
+
+[Deployed App GitHub](https://github.com/PLKGIT/clicky-game) at https://github.com/PLKGIT/deployed-clicky-game
 
 ### Deployed Application
 [70's TV Mashup](https://plkgit.github.io/clicky-game/) deployed at https://plkgit.github.io/clicky-game/
