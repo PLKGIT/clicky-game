@@ -30,7 +30,7 @@ Pam Kelly at [esq.kelly@gmail.com](mailto:esq.kelly@gmail.com)
 [70's TV Mashup](https://plkgit.github.io/clicky-game/) deployed at https://plkgit.github.io/clicky-game/
 
 ### Portfolio
-[Professional Portfolio](https://www.pamkelly.com/portdev.htmll) at 
+[Professional Portfolio](https://www.pamkelly.com/portdev.html) at 
 https://www.pamkelly.com/portdev.html
 
 
